@@ -1,2 +1,3 @@
 # hello-world
-me
+thanks for welcoming me to your community.
+It is actually a new world.
